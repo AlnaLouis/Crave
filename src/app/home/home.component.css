@@ -1,0 +1,23 @@
+img{
+    height:500px; 
+    width:250px ;
+}
+#special:active{
+    background:darkslategrey;
+}
+
+#special:focus{
+    background:dimgrey;
+}
+#txt0{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(42, 170, 38);
+    font-size: 25px;
+}
+#txt1{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(42, 170, 38);
+    font-size: 25px;
+}
