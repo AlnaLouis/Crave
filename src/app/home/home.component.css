@@ -1,23 +1,42 @@
-img{
-    height:500px; 
-    width:250px ;
-}
-#special:active{
-    background:darkslategrey;
-}
 
-#special:focus{
-    background:dimgrey;
-}
-#txt0{
+#txt2{
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(42, 170, 38);
     font-size: 25px;
+    color: black;
 }
-#txt1{
+#txt3{
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
-    color:rgb(42, 170, 38);
+    color: black;
     font-size: 25px;
+}
+#vision{
+    font-family: cursive;
+    font-weight: 200;
+    text-align: left;
+    background-color:rgba(44, 40, 40, 0.932);
+    color: aliceblue;
+}
+#mission{
+    font-family: cursive;
+    font-weight: 200;
+    text-align: left;
+    background-color: rgba(44, 40, 40, 0.932);
+    color: aliceblue;
+}
+#quote{
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: large;
+    
+ 
+}
+#ll{
+    align-content: flex-end;
+}
+#colo{
+    background-color: rgba(44, 40, 40, 0.932);
+    height: 200px;
+    width: 100%;
 }
