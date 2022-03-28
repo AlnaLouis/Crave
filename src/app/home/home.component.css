@@ -14,15 +14,15 @@
 #vision{
     font-family: cursive;
     font-weight: 200;
-    text-align: left;
-    background-color:rgba(44, 40, 40, 0.932);
+    text-align: justify;
+    background-color:black;
     color: aliceblue;
 }
 #mission{
     font-family: cursive;
     font-weight: 200;
-    text-align: left;
-    background-color: rgba(44, 40, 40, 0.932);
+    text-align: justify;
+    background-color: black;
     color: aliceblue;
 }
 #quote{
@@ -36,7 +36,11 @@
     align-content: flex-end;
 }
 #colo{
-    background-color: rgba(44, 40, 40, 0.932);
+    background-color:black;
     height: 200px;
     width: 100%;
+}
+#visio{
+    text-align: center;
+    color: aliceblue;
 }
