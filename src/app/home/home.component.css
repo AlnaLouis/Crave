@@ -54,3 +54,13 @@ img{
     font-family:cursive;
 
 }
+#co{
+    box-flex-group: black;
+    background-color:black;
+    text-align: justify;
+   color: aliceblue;
+}
+#foo{
+    height: 250px;
+    width: auto;
+}
