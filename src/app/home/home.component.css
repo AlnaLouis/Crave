@@ -44,3 +44,13 @@
     text-align: center;
     color: aliceblue;
 }
+img{
+    height: 150px;
+    width: 150px;
+}
+#team{
+    text-align: center;
+    color: aliceblue;
+    font-family:cursive;
+
+}
