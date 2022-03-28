@@ -45,14 +45,15 @@
   padding-top: 5px;
   padding-bottom: 5px;
 }
-#name{
-  font-family: cursive;
-  font-weight: bolder;
-  font-size: 45px;
-}
+
 #motto{
   font-family: cursive;
   font-size: 15px;
   font-weight: lighter;
   text-align: center;
+}
+#name{
+  font-family: fantasy;
+  font-weight: bolder;
+  font-size: 45px;
 }
